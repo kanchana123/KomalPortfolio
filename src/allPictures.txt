@@ -1,0 +1,30 @@
+[
+  {
+    name: "Krishna Painting",
+    category: "painting",
+    description: "2D painting with water colors",
+    image: krishnapainting,
+    menu: "painting&sketch"
+  },
+  {
+    name: "Bird Sketch",
+    category: "sketch",
+    description: "Bird sketch",
+    image: birdsketch,
+    menu: "painting&sketch"
+  },
+  {
+    name: "3D Painting",
+    category: "painting",
+    description: "3D painting with water colors",
+    image: painting3d,
+    menu: "painting&sketch"
+  },
+  {
+    name: "TradingTastes Logo",
+    category: "logo",
+    description: "Logo designed with CorelDraw",
+    image: tradingtastes,
+    menu: "corel"
+  }
+]
